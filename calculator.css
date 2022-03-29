@@ -1,0 +1,50 @@
+body{
+    font-family: "poppins"fantasy;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxlBRrygBM13xMsKIPmy3l7LZSZON0I2-OPQ&usqp=CAUS");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 50%;
+    background-position: center;
+    background-size: cover;
+    
+    }
+    
+    .container{
+    text-align: center;
+    margin: top ;
+}
+
+table{
+    margin: auto;
+}
+
+input{
+    border-radius: 30px;
+    border: 5px solid #ffffff;
+     font-size: 30px;
+     height: 40px;
+    width: 300px;
+}
+
+button{
+    border-radius: 25px;
+    font-size: 40px;
+    background:  white ;
+    width: 70px;
+    height: 60px;
+    margin: 7px;
+}
+
+.calculator{ 
+    border: 4px solid grey;
+    background-color: #999;
+    padding: 20px;
+    border-radius: 50px;
+    display: inline-block;
+    
+}
+
+h1{
+    font-size: 50px;
+    font-family: cursive;
+}
